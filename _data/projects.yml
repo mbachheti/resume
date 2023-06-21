@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Pilot City Tech Externship
+  role: Developer
+  duration: 2020 &mdash; 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: I was a student in the PilotCity tech externship program. My group created a product with Sony Mesh technology that detects whether you possibly have mildew growing in your house. It does so by detecting the temperature and humidity of its surroundings. By doing so, it can detect if your house is ideal for mildew growth.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: AP Computer Science Maze Solver Project
+  role: Developer
+  duration: 2022 &mdash; 2023
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: The program is written in Java and simulates a person traveling through a maze. It reads a maze from a text file and graphically displays every solution from a randomized starting position.
+
