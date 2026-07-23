@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Manya Bachheti"
-resume_title:                   "High School Student"
+resume_title:                   "Student at Carnegie Mellon University"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "manya.bachheti@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(669) 268-5133"
-resume_contact_address:         "Fremont, CA"
+resume_contact_address:         "Pittsburgh, PA"
 
-resume_header_contact_info:     "Fremont, CA • (669) 268-5133 • manya.bachheti@gmail.com"
+resume_header_contact_info:     "Pittsburgh, PA • (669) 268-5133 • manya.bachheti@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a high school student who has just completed 12th grade interested in computer and data science. Starting in August 2025, I will be attending Carnegie Mellon University as a Computer Science major.
+#resume_header_intro: "<p>I am a high school student who has just completed 12th grade interested in computer and data science. Starting in August 2025, I will be attending Carnegie Mellon University as a Computer Science major.
 With my hard work and desire to learn, I would like to be an intern at a reputed organization.</p>"
 
 # use "yes" to display the email contact button,
@@ -41,7 +41,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    true
-resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
